@@ -21,7 +21,8 @@ Source: https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-datas
 - Feature importance
 
 ## Result
-Final model: **Logistic Regression** — ROC-AUC 0.71, Recall 0.63 for at-risk 
+Final model: **Logistic Regression** 
+ROC-AUC 0.71, Recall 0.63 for at-risk 
 patients. The most important risk factors were age, smoking, and blood pressure.
 
 ## Tools
